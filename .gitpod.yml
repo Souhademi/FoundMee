@@ -1,14 +1,1 @@
-# Example Gitpod configuration file
 
-image:
-  file: .gitpod.Dockerfile
-
-tasks:
-  - name: Setup
-    command: echo "Running setup task..."
-
-# List of VS Code extensions to install
-vscode:
-  extensions:
-    - Souhademi.extension-name
-    - malakdemikha.extension2
